@@ -1,22 +1,10 @@
-                                                                                                       
-          JJJJJJJJJJJ                                                                           lllllll 
-          J:::::::::J                                                                           l:::::l 
-          J:::::::::J                                                                           l:::::l 
-          JJ:::::::JJ                                                                           l:::::l 
-            J:::::J          ooooooooooo            eeeeeeeeeeee         nnnn  nnnnnnnn          l::::l 
-            J:::::J        oo:::::::::::oo        ee::::::::::::ee       n:::nn::::::::nn        l::::l 
-            J:::::J       o:::::::::::::::o      e::::::eeeee:::::ee     n::::::::::::::nn       l::::l 
-            J:::::j       o:::::ooooo:::::o     e::::::e     e:::::e     nn:::::::::::::::n      l::::l 
-            J:::::J       o::::o     o::::o     e:::::::eeeee::::::e       n:::::nnnn:::::n      l::::l 
-JJJJJJJ     J:::::J       o::::o     o::::o     e:::::::::::::::::e        n::::n    n::::n      l::::l 
-J:::::J     J:::::J       o::::o     o::::o     e::::::eeeeeeeeeee         n::::n    n::::n      l::::l 
-J::::::J   J::::::J       o::::o     o::::o     e:::::::e                  n::::n    n::::n      l::::l 
-J:::::::JJJ:::::::J       o:::::ooooo:::::o     e::::::::e                 n::::n    n::::n     l::::::l
- JJ:::::::::::::JJ        o:::::::::::::::o      e::::::::eeeeeeee         n::::n    n::::n     l::::::l
-   JJ:::::::::JJ           oo:::::::::::oo        ee:::::::::::::e         n::::n    n::::n     l::::::l
-     JJJJJJJJJ               ooooooooooo            eeeeeeeeeeeeee         nnnnnn    nnnnnn     llllllll
-                                                                                                        
-                                                                                                        
+
+   ___                          _ 
+  |_  |                        | |
+    | |   ___     ___   _ __   | |
+    | |  / _ \   / _ \ | '_ \  | |
+/\__/ / | (_) | |  __/ | | | | | |
+\____/   \___/   \___| |_| |_| |_|                                                                      
                                                                                                         
 
 - 👋 Hi, I’m Joenel Calvez
