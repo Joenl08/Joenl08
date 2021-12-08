@@ -4,8 +4,8 @@
     | |   ___     ___   _ __   | |
     | |  / _ \   / _ \ | '_ \  | |
 /\__/ / | (_) | |  __/ | | | | | |
-\____/   \___/   \___| |_| |_| |_|                                                                      
-                                                                                                        
+\____/   \___/   \___| |_| |_| |_|
+
 
 - 👋 Hi, I’m Joenel Calvez
 - ✎  I'm currently a fullstack Web Developer, with PHP as main language
