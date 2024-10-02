@@ -1,9 +1,3 @@
-                                            
-          / /                               
-         / /  ___      ___       __     //  
-        / / //   ) ) //___) ) //   ) ) //   
-       / / //   / / //       //   / / //    
- ((___/ / ((___/ / ((____   //   / / //     
 
 - 👋 Hi, I’m Joenel Calvez
 - ✎  I'm currently a fullstack Web Developer, with PHP as main language
@@ -12,5 +6,6 @@
 - ❤  I'm also experience in mobile development, and currently enhancing my knowledge about latest technologies
 - ❤  I would love to share my knowledge and talent, much lovable in exchanging knowledge with great and talented people 😉
 - 📫 How to reach me ...
-  * Mail: joenl.clvz08@gmail.com
-  * Facebook: https://www.facebook.com/Joe.nl.clvz
+  * Mail: [](joenl.clvz08@gmail.com)
+  * Through [Facebook](https://www.facebook.com/Joe.nl.clvz) 
+  * Through [Linkedin](https://www.linkedin.com/in/joenel-calvez-6437b1228/)
