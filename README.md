@@ -1,8 +1,7 @@
-
- 👋 Hi, I’m Joenel Calvez
- ✎  A Fullstack Web Developer, but currently in loved with frontend development
- ❤  I love to deep dive in web development, expanding my knowledge and expertise in current tech trends
- ☕ Coffee is the fuel that ignites my mornings and powers my creativity.
+- 👋 Hi, I’m Joenel Calvez
+- ✎  A Fullstack Web Developer, but currently in loved with frontend development
+- ❤  I love to deep dive in web development, expanding my knowledge and expertise in current tech trends
+- ☕ Coffee is the fuel that ignites my mornings and powers my creativity.
   
   📫 How to reach me:
   * Mail: [joenl.clvz08@gmail.com](joenl.clvz08@gmail.com)
